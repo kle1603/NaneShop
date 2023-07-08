@@ -1,0 +1,68 @@
+.user__inner {
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* ==================== Account - Left ==================== */
+
+.user-left {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #fff;
+}
+
+.user-left__inner {
+    width: auto;
+    height: auto;
+}
+
+.user-img {
+    width: 100%;
+    display: flex;
+    opacity: 0.9;
+}
+
+/* ==================== Account - Right==================== */
+.user-right {
+    width: 50%;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 30px;
+}
+
+.list {
+    display: flex;
+    align-items: center;
+}
+
+.list__heading {
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 2.5;
+}
+
+.desc {
+    font-weight: 200;
+    font-size: 2rem;
+    line-height: 2.5;
+    padding-left: 20px;
+}
+
+.user__logout {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 60px;
+    right: 95px;
+}
+
+.user-out_img {
+    width: 100%;
+    padding: 10px;
+}

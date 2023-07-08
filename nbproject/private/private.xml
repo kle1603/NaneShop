@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/CN4/PRJ/NaneShop/web/user.jsp</file>
+            <file>file:/D:/CN4/PRJ/NaneShop/src/java/sample/controller/MainController.java</file>
+            <file>file:/D:/CN4/PRJ/NaneShop/src/java/sample/controller/AdminController.java</file>
+            <file>file:/D:/CN4/PRJ/NaneShop/src/java/sample/controller/AddToCartController.java</file>
+            <file>file:/D:/CN4/PRJ/NaneShop/web/admin.jsp</file>
+            <file>file:/D:/CN4/PRJ/NaneShop/src/java/sample/controller/ProductController.java</file>
+            <file>file:/D:/CN4/PRJ/NaneShop/src/java/sample/controller/LogoutController.java</file>
+            <file>file:/D:/CN4/PRJ/NaneShop/src/java/sample/controller/LoginController.java</file>
+            <file>file:/D:/CN4/PRJ/NaneShop/web/product.jsp</file>
+            <file>file:/D:/CN4/PRJ/NaneShop/src/java/sample/controller/UpdateController.java</file>
+            <file>file:/D:/CN4/PRJ/NaneShop/src/java/sample/dao/AdminDAO.java</file>
+            <file>file:/D:/CN4/PRJ/NaneShop/src/java/sample/controller/RegisterController.java</file>
+            <file>file:/D:/CN4/PRJ/NaneShop/src/java/sample/dao/ProductDAO.java</file>
+            <file>file:/D:/CN4/PRJ/NaneShop/src/java/sample/controller/AdminCreateController.java</file>
+            <file>file:/D:/CN4/PRJ/NaneShop/web/login.jsp</file>
+        </group>
+    </open-files>
+</project-private>
